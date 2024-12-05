@@ -31,80 +31,78 @@
 - ⚡ Fun fact: Why do programmers prefer dark mode?<details><summary>**Why?**</summary>Because light attracts bugs! 🐛😄</details>
     
 ---
-
 ### 💻 Languages and Tools:
-## Technologies and Tools
 
-<div style="display: flex; flex-wrap: wrap;">
-
-<div style="flex: 1; padding: 10px;">
-
-### IDEs
-| **Tech**          | **Badge**                                                                                               |
-|--------------------|-------------------------------------------------------------------------------------------------------|
-| Visual Studio      | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) |
-| Krita             | ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)     |
-
-### SQL
-| **Tech**          | **Badge**                                                                                               |
-|--------------------|-------------------------------------------------------------------------------------------------------|
-| SQLite            | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
-
-</div>
-
-<div style="flex: 1; padding: 10px;">
-
-### For Web Development
-| **Tech**          | **Badge**                                                                                               |
-|--------------------|-------------------------------------------------------------------------------------------------------|
-| HTML5             | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
-| CSS3              | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-| JavaScript        | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| Bootstrap         | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
-
-</div>
-
-<div style="flex: 1; padding: 10px;">
-
-### Frameworks
-| **Tech**          | **Badge**                                                                                               |
-|--------------------|-------------------------------------------------------------------------------------------------------|
-| Django            | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) |
-| Flask             | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) |
-| React             | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
-| NodeJS            | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
-
-</div>
-
-<div style="flex: 1; padding: 10px;">
-
-### Git and GitHub
-| **Tech**          | **Badge**                                                                                               |
-|--------------------|-------------------------------------------------------------------------------------------------------|
-| GitHub Actions    | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
-| GitHub            | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
-| Git               | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)    |
-
-</div>
-
-<div style="flex: 1; padding: 10px;">
-
-### General Programming
-| **Tech**          | **Badge**                                                                                               |
-|--------------------|-------------------------------------------------------------------------------------------------------|
-| C                 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)          |
-| C++               | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| Python            | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-
-</div>
-
-</div>
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <th><strong>Category</strong></th>
+    <th><strong>Tech</strong></th>
+    <th><strong>Badge</strong></th>
+  </tr>
+  <tr>
+    <td><strong>IDEs</strong></td>
+    <td>Visual Studio<br>Krita</td>
+    <td>
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+      <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>SQL</strong></td>
+    <td>SQLite</td>
+    <td><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td><strong>Web Development</strong></td>
+    <td>HTML5<br>CSS3<br>JavaScript<br>Bootstrap</td>
+    <td>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks</strong></td>
+    <td>Django<br>Flask<br>React<br>NodeJS</td>
+    <td>
+      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+      <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Git and GitHub</strong></td>
+    <td>GitHub Actions<br>GitHub<br>Git</td>
+    <td>
+      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>General Programming</strong></td>
+    <td>C<br>C++<br>Python</td>
+    <td>
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    </td>
+  </tr>
+</table>
 
 ---
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/raj-rai-8445042ba) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/0lDreamer/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/LairesuRai) 
+
+<p align="center">
+  <a href="https://discord.gg/EknR79pDw3"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://linkedin.com/in/raj-rai-8445042ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://pinterest.com/0lDreamer/"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
+  <a href="https://x.com/LairesuRai"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+</p>
 
 
 ### 📊 GitHub Stats:
