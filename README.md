@@ -26,7 +26,7 @@
 - 🛠️ I'm currently on a journey to build **Awesome Projects**
 - 🌱 I'm currently learning **cs50: Introduciton to computer science(2024)** 😅
 - 🤝 I'm looking for help with **finding projects to contribute to!**
-- 👨‍💻 All of my projects are available at [My Repos](https://github.com/NoahXiren?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repos](https://github.com/Lairesu?tab=repositories)
 - 📫 Reach me out at [coderraj2005@gmail.com](mailto:coderraj2005@gmail.com)
 - ⚡ Fun fact: Why do programmers prefer dark mode?<details><summary>**Why?**</summary>Because light attracts bugs! 🐛😄</details>
     
