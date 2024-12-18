@@ -41,10 +41,9 @@
   </tr>
   <tr>
     <td><strong>IDEs</strong></td>
-    <td>Visual Studio<br>Krita</td>
+    <td>Visual Studio</td>
     <td>
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-      <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
     </td>
   </tr>
   <tr>
