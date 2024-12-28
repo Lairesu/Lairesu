@@ -41,15 +41,17 @@
   </tr>
   <tr>
     <td><strong>IDEs</strong></td>
-    <td>Visual Studio</td>
+    <td>Visual Studio<br> Pycharm </td>
     <td>
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+      <img src="https://img.shields.io/badge/pycharm-%234B8EB3.svg?style=for-the-badge&logo=pycharm&logoColor=white">
     </td>
   </tr>
   <tr>
     <td><strong>SQL</strong></td>
-    <td>SQLite</td>
-    <td><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></td>
+    <td>SQLite<br>Postgresql</td>
+    <td><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img src="https://img.shields.io/badge/postgresql-%234F5B93.svg?style=for-the-badge&logo=postgresql&logoColor=white"></td>
   </tr>
   <tr>
     <td><strong>Web Development</strong></td>
@@ -63,8 +65,9 @@
   </tr>
   <tr>
     <td><strong>Frameworks</strong></td>
-    <td>Django<br>Flask<br>React<br>NodeJS</td>
+    <td>Tailwind<br>Django<br>Flask<br>React<br>NodeJS</td>
     <td>
+      <img src="https://img.shields.io/badge/tailwindcss-%234A8BFC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
       <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
