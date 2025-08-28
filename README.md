@@ -23,8 +23,8 @@
 
 ### 👨‍💻 About Me
   A Developer who lovers to learn create new thing.
-- 🛠️ I'm currently on a journey to build [E-commerce Website]
-- 🌱 I'm currently learning **fullstack developer** 😅
+- 🛠️ I'm currently on a journey to build [simple websites]
+- 🌱 I'm currently learning **Golang and Blender** 😅
 - 🤝 I'm looking for help with **finding projects to contribute to!**
 - 👨‍💻 All of my projects are available at [My Repos](https://github.com/Lairesu?tab=repositories)
 - 📫 Reach me out at [coderraj2005@gmail.com](mailto:coderraj2005@gmail.com)
