@@ -23,9 +23,8 @@
 
 ### 👨‍💻 About Me
   A Developer who lovers to learn create new thing.
-- 🛠️ I'm currently solving problems.
-- 🌱 I'm currently learning **Learning Networking** 
-- 🤝 I'm looking for help with **finding projects to contribute to!**
+- 🛠️ I'm currently doing ``httptoTCP``.
+- 🌱 I'm currently learning **About Networking** 
 - 👨‍💻 All of my projects are available at [My Repos](https://github.com/Lairesu?tab=repositories)
 - 📫 Reach me out at [coderraj2005@gmail.com](mailto:coderraj2005@gmail.com)
 ---
