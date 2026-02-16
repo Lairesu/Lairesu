@@ -28,8 +28,6 @@
 - 🤝 I'm looking for help with **finding projects to contribute to!**
 - 👨‍💻 All of my projects are available at [My Repos](https://github.com/Lairesu?tab=repositories)
 - 📫 Reach me out at [coderraj2005@gmail.com](mailto:coderraj2005@gmail.com)
-- ⚡ Fun fact: Why do programmers prefer dark mode?<details><summary>**Why?**</summary>Because light attracts bugs! 🐛😄</details>
-    
 ---
 
 ### 💻 Languages and Tools:
@@ -40,22 +38,10 @@
 
 
 ### 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lairesu&theme=holi&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lairesu&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph" />
-</div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lairesu&theme=holi&hide_border=false" />
 </div>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lairesu&theme=holi&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
 
 ---
 
