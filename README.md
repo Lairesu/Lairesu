@@ -1,74 +1,39 @@
-<!-- Repository Name -->
-<h1 align="center">🌟 Lairesu Rai🌟</h1>
+# Hi, I'm Lairesu Rai 👋
 
-<!-- Short Description -->
+Developer who loves learning and building new things.
 
-`Elegantly Executed Code, Unraveling Mysteries`
+- Currently Doing HomeLAbs
+- All my projects: [github.com/Lairesu](https://github.com/Lairesu?tab=repositories)
+- Contact: [coderraj2005@gmail.com](mailto:coderraj2005@gmail.com)
 
-<div align="right">
-  <a href="https://komarev.com/ghpvc/?username=Lairesu&color=blu" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Lairesu&color=blue" alt="Profile views" style="margin-right: 5px;">
-  </a>
-</div>
+## Stack
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+Welcome+to+my+GitHub🤗;" />
-</h1>
+**Languages**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" title="C" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="32" title="Go" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" title="JavaScript" />
 
-<div align="center">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</div>
+**Frontend**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="32" title="Tailwind CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" title="React" />
 
----
+**Backend**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="32" title="Django" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="32" title="Flask" />
 
-### 👨‍💻 About Me
-  A Developer who lovers to learn create new thing.
-- 🛠️ I'm currently ``learning Networking Tools``.
-- 🌱 I'm currently learning **About Networking** 
-- 👨‍💻 All of my projects are available at [My Repos](https://github.com/Lairesu?tab=repositories)
-- 📫 Reach me out at [coderraj2005@gmail.com](mailto:coderraj2005@gmail.com)
----
+**Databases**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" title="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" title="MongoDB" />
 
-### 💻 Languages, Tools & Security Arsenal
+**Tools**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" title="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" title="GitHub" />
 
-<div align="center">
+## Stats
 
-<!-- Core Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-
-<!-- Frontend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-
-<!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
-
-<!-- Programming -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-
-<!-- Databases -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-</div>
-
-
----
-
-
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lairesu&theme=holi&hide_border=false" />
-</div>
-
-
----
-
+![Lairesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lairesu&show_icons=true&hide_border=true)
